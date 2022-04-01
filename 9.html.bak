@@ -1,6 +1,6 @@
 <html>
 	<body>
-	<caption><h1 align="center">student details</caption>
+	<caption><h1 align="center">student details</h1></caption>
 		<table>
 		<colgroup>
 			<col span="3" style="background-color:aqua">

@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title> Div Testing </title>
+	</head>
+	<body style="background-color:aqua;">
+		<h1 align="center">div testing</h1>
+		<div style="background-color:green;height:200px;width=100%">1st div</div></br>
+		<div style="background-color:red;height:200px;width=100%">2nd div</div></br>
+		<div style="background-color:blue;height:200px;width=100%">3rd div</div></br>
+	</body>
+</html>

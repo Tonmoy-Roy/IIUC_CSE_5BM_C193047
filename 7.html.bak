@@ -1,0 +1,32 @@
+<html>
+	<title>html table</title>
+	<body>
+	<caption><h1 align="center">Student Details</caption>
+		<table border="10" width="500" height="300">
+		<thead>
+			<tr align="center">
+				<th>Id</th>
+				<th>Name</th>
+				<th>GPA</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr align="center">
+				<td>C193090</td>
+				<td>Biddut</td>
+				<td>5.00</td>
+			</tr>
+			<tr align="center">
+				<td>C193091</td>
+				<td>Akash</td>
+				<td>5.00</td>
+			</tr>
+			<tr align="center">
+				<td>C193092</td>
+				<td>Robin</td>
+				<td>5.00</td>
+			</tr>
+			</table>
+		</tbody>
+	</body>
+</html>

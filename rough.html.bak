@@ -1,0 +1,26 @@
+<html>
+	<head>
+		<style type="text/css">
+			#section1{
+				background-color:green;
+			}
+			#section2{
+				background-color:green;
+			}
+			#section1 h1{
+				color:yellow;
+			}
+			#section1 p{
+				color:red;
+				font-size:200%;
+			}
+		</style>
+	</head>
+	<body>
+			<h1>I'm lerning css</h1>
+			<p>why i'm learning css</p>
+		<div id="section2">
+			
+		</div>
+	</body>
+</html>
