@@ -1,9 +1,0 @@
-<html>
-	<head>
-		<title>Creating a link</title>
-	</head>
-
-	<body style="background-color:HotPink;">
-		<a href="file:///E:/html/3.html" target="blank"><h1 align="center">Click here to visit my first page</h1></a>
-	</body>
-</html>

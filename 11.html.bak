@@ -1,9 +1,0 @@
-<html>	
-	<head><title>Adding Audio</title></head>
-	<body>
-		<audio controls>	
-			<source src="E:\Videoes\Songs\New folder\Gerua.mp4" type="video/mp4">
-			your browser doesn't support the audio tag.
-		</audio>
-	</body>
-</html>
